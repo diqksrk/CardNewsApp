@@ -2,7 +2,7 @@
 
 #### 1. 로그인창
 <p align="center">
-<img src="img/KakaoTalk_20171106_200421213.png" alt="img1">
+<img src="img/KakaoTalk_20171106_200421213.png" style="float:left;" alt="img1">
 <p/>
 아이디와 비밀번호를 입력해 들어갈 수 있는 로그인 창입니다.
 
