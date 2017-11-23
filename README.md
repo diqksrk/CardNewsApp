@@ -77,6 +77,21 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.
 
   * E-mail adress : rlaslstjr@gmail.com
   
+  
+#### Welcome for Pull Requests
+
+#### Please send mails, in case of commits
+
+  * E-mail adress : rlaslstjr@gmail.com
+  
+#### 들여쓰기는 4칸으로 정한다.
+
+#### 띄어쓰기를 언더바로 대신한다.
+
+#### Please send mails, if you want to be Contributor
+
+  * E-mail adress : rlaslstjr@gmail.com
+  
 MIT LISENCE 
 =======================
 Copyright (c) <2017> <purple-10>
