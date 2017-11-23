@@ -4,7 +4,7 @@
 <p align="center">
 <img src="img/KakaoTalk_20171106_200421213.png" style="float:left;" alt="img1">
 <p/>
-아이디와 비밀번호를 입력해 들어갈 수 있는 로그인 창입니다.
+아이디와 비밀번호를 입력해 들어갈 수 있는 로그인 창입니다.(Log-in window that can enter username and password.)
 
 #### 2. 메인창 
 
