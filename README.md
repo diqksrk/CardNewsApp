@@ -55,3 +55,21 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.
    * Android virtual device는 5.1.1 lollipop 사용
    
    * Android SDK 사용
+
+개발 참여 방법 안내
+=======================
+
+### Pull requests를 환영한다.
+
+### commits를 하고 싶다면 메일을 보내주기 바란다.
+
+  * E-mail adress : rlaslstjr@gmail.com
+  
+### 들여쓰기는 4칸으로 정한다.
+
+### 띄어쓰기를 언더바로 대신한다.
+
+### Contributor를 원하면 메일을 보내주기 바란다.
+
+  * E-mail adress : rlaslstjr@gmail.com
+  
