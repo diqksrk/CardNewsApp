@@ -1,34 +1,35 @@
 ## IT 관련 뉴스를 보고 카드 뉴스를 제작하고 배포할수 있는 앱입니다.
 
-#### 1. 로그인창
+#### 1. 로그인창(log-in window)
 <p align="center">
 <img src="img/login.png" style="float:left;" alt="img1">
 <p/>
 아이디와 비밀번호를 입력해 들어갈 수 있는 로그인 창입니다.(Log-in window that can enter username and password.)
 
-#### 2. 메인창 
+#### 2. 메인창 (main window)
 
 <p align="center">
 <img src="img/main.png" alt="img2">
 <p/>
-IT와 관련된 카드뉴스들을 볼 수 있습니다.
+IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews that realation to IT)
 
-#### 3. 카드뉴스 에디터 창
+#### 3. 카드뉴스 에디터 창(cardnews editor window)
 
 <p align="center">
 <img src="img/card editor.png" alt="img2">
 <p/>
 이곳에서 카드뉴스를 제작 사용자의 휴대폰 갤러리에 저장한 후, 그것을 통해 카드뉴스를 배포할 수 있습니다.
->>>>>>> d0e5586f3d0a6a4d411a833583c8126e72a33c2a
+(can save the cardnews in the user's  cellphone gallery , and can publish through this.)
 
 
 
-개발자를 위한 사양 설명서
+
+개발자를 위한 사양 설명서(specification manual for developers)
 =======================
 
-#### 안드로이드 스튜디오 사용
+#### 안드로이드 스튜디오 사용(Use Android Studio)
     
-  * Android studio를 사용하기 위한 사양
+  * Android studio를 사용하기 위한 사양(Specification to use Android Studio)
   
   
   
