@@ -1,4 +1,4 @@
-## IT 관련 뉴스를 보고 카드 뉴스를 제작하고 배포할수 있는 앱입니다.
+## IT 관련 뉴스를 보고 카드 뉴스를 제작하고 배포할수 있는 앱입니다.(App for watch IT news and make and publish cardnews)
 
 #### 1. 로그인창(log-in window)
 <p align="center">
