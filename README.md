@@ -55,7 +55,7 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
 
 #### Pull request를 할 때에는 메일도 보내주길 바란다. (When send Pull request, please send mail too.)
 
-  * E-mail adress : rlaslstjr@gmail.com
+  * E-mail address : rlaslstjr@gmail.com
   
 #### 들여쓰기는 4칸으로 정한다. (Indent is 4 spaces)
 
@@ -63,7 +63,7 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
 
 #### Collaborator를 원하면 메일을 보내주기 바란다. (Please send mails, if you want to be Collaborator)
 
-  * E-mail adress : rlaslstjr@gmail.com
+  * E-mail address : rlaslstjr@gmail.com
 
   
 ## 4. 적용 라이센스
