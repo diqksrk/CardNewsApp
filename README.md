@@ -1,7 +1,7 @@
 ## 목차
 &nbsp;&nbsp;1.  [앱 소개](https://github.com/diqksrk/opensource-10#1-앱-소개)<br>
 <br>
-&nbsp;&nbsp;2.  [개발자를 위한 사양설명서](https://github.com/diqksrk/opensource-10#1-개발자를-위한-사양-설명서(specification-manual-for-developers))<br>
+&nbsp;&nbsp;2.  [개발자를 위한 사양설명서](https://github.com/diqksrk/opensource-10#2-개발자를-위한-사양-설명서(specification-manual-for-developers))<br>
 <br>
 &nbsp;&nbsp;3.  [개발 참여 방법 안내]<br>
 <br>
