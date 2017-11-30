@@ -65,7 +65,7 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
 
   
 ## 4. 적용 라이센스
-사용한 라이선스 : MIT Licence(https://github.com/utsavoza/photo-editor)
+사용한 라이선스 : MIT Licence(https://github.com/utsavoza/photo-editor)<br>
 -MIT LISENCE-<br>
 Copyright (c) <2017> <purple-10>
 
