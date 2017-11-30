@@ -63,34 +63,20 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
 
 ## 3. 개발 참여 방법 안내
 
-#### Pull requests를 환영한다.
+#### Pull requests를 환영한다. (Welcome for Pull Requests)
 
-#### commits를 하고 싶다면 메일을 보내주기 바란다.
-
-  * E-mail adress : rlaslstjr@gmail.com
-  
-#### 들여쓰기는 4칸으로 정한다.(
-
-#### 띄어쓰기를 언더바로 대신한다.
-
-#### Contributor를 원하면 메일을 보내주기 바란다.
+#### commits를 하고 싶다면 메일을 보내주기 바란다. (Please send mails, in case of commits)
 
   * E-mail adress : rlaslstjr@gmail.com
   
-  
-#### Welcome for Pull Requests
+#### 들여쓰기는 4칸으로 정한다. (Indent is 4 spaces)
 
-#### Please send mails, in case of commits
+#### 띄어쓰기를 언더바로 대신한다. (Spaces are replaced by underscores.)
 
-  * E-mail adress : rlaslstjr@gmail.com
-  
-#### Indent is 4 spaces
-
-#### Spaces are replaced by underscores.
-
-#### Please send mails, if you want to be Contributor
+#### Contributor를 원하면 메일을 보내주기 바란다. (Please send mails, if you want to be Contributor)
 
   * E-mail adress : rlaslstjr@gmail.com
+
   
 ## 4. 적용 라이센스
 -MIT LISENCE-<br>
