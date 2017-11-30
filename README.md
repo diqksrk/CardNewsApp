@@ -1,12 +1,21 @@
-## IT 관련 뉴스를 보고 카드 뉴스를 제작하고 배포할수 있는 앱입니다.  (App for watch IT news and make and publish cardnews)
+## 목차
+&nbsp;&nbsp;1.  [앱 소개]<br>
+<br>
+&nbsp;&nbsp;2.  [개발자를 위한 사양설명서]<br>
+<br>
+&nbsp;&nbsp;3.  [개발 참여 방법 안내]<br>
+<br>
+&nbsp;&nbsp;4.  [적용 라이센스]<br>
+<br>
+## 1. IT 관련 뉴스를 보고 카드 뉴스를 제작하고 배포할수 있는 앱입니다.  (App for watch IT news and make and publish cardnews)
 
-#### 1. 로그인창(log-in window)
+#### 1) 로그인창(log-in window)
 <p align="center">
 <img src="img/login.png" style="float:left;" alt="img1">
 <p/>
 아이디와 비밀번호를 입력해 들어갈 수 있는 로그인 창입니다.(Log-in window that can enter username and password.)
 
-#### 2. 메인창 (main window)
+#### 2) 메인창 (main window)
 
 <p align="center">
 <img src="img/main.png" alt="img2">
@@ -14,7 +23,7 @@
 IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews that realation to IT)
  또한 우상단측에 카드뉴스만들기라는 메뉴가 있습니다.(There is a menu called Create Card News on the upper right side)
 
-#### 3. 카드뉴스 에디터 창(cardnews editor window)
+#### 3) 카드뉴스 에디터 창(cardnews editor window)
 
 <p align="center">
 <img src="img/card editor.png" alt="img2">
@@ -25,7 +34,7 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
 
 
 
-개발자를 위한 사양 설명서(specification manual for developers)
+## 2. 개발자를 위한 사양 설명서(specification manual for developers)
 =======================
 
 #### 안드로이드 스튜디오 사용(Use Android Studio)
@@ -52,7 +61,7 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
    
    * Android SDK 사용
 
-개발 참여 방법 안내
+## 3. 개발 참여 방법 안내
 =======================
 
 #### Pull requests를 환영한다.
@@ -84,7 +93,7 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
 
   * E-mail adress : rlaslstjr@gmail.com
   
-MIT LISENCE 
+## 4. MIT LISENCE 
 =======================
 Copyright (c) <2017> <purple-10>
 
