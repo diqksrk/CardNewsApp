@@ -12,7 +12,7 @@
 <img src="img/main.png" alt="img2">
 <p/>
 IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews that realation to IT)
- 또한 우상단측에 카드뉴스만들기라는 메뉴가 있습니다.
+ 또한 우상단측에 카드뉴스만들기라는 메뉴가 있습니다.(There is a menu called Create Card News on the upper right side)
 
 #### 3. 카드뉴스 에디터 창(cardnews editor window)
 
