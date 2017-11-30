@@ -1,11 +1,11 @@
 ## 목차
 &nbsp;&nbsp;1.  [앱 소개](https://github.com/diqksrk/opensource-10#1-앱-소개)<br>
 <br>
-&nbsp;&nbsp;2.  [개발자를 위한 사양설명서](https://github.com/diqksrk/opensource-10#2-개발자를-위한-사양-설명서(specification-manual-for-developers))<br>
+&nbsp;&nbsp;2.  [개발자를 위한 사양설명서](https://github.com/diqksrk/opensource-10#2-개발자를-위한-사양-설명서)<br>
 <br>
-&nbsp;&nbsp;3.  [개발 참여 방법 안내]<br>
+&nbsp;&nbsp;3.  [개발 참여 방법 안내](https://github.com/diqksrk/opensource-10#3-개발-참여-방법-안내)<br>
 <br>
-&nbsp;&nbsp;4.  [적용 라이센스]<br>
+&nbsp;&nbsp;4.  [적용 라이센스](https://github.com/diqksrk/opensource-10#4-적용-라이센스)<br>
 <br>
 ## 1. 앱 소개
 IT 관련 뉴스를 보고 카드 뉴스를 제작하고 배포할수 있는 앱입니다.  (App for watch IT news and make and publish cardnews)
@@ -35,9 +35,8 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
 
 
 
-## 2. 개발자를 위한 사양 설명서(specification manual for developers)
-=======================
-
+## 2. 개발자를 위한 사양 설명서
+-specification manual for developers-
 #### 안드로이드 스튜디오 사용(Use Android Studio)
     
   * Android studio를 사용하기 위한 사양(Specification to use Android Studio)
@@ -94,8 +93,8 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
 
   * E-mail adress : rlaslstjr@gmail.com
   
-## 4. MIT LISENCE 
-=======================
+## 4. 적용 라이센스
+-MIT LISENCE-
 Copyright (c) <2017> <purple-10>
 
 
