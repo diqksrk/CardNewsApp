@@ -38,8 +38,6 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
 ## 2. 개발자를 위한 사양 설명서
 -specification manual for developers-
 #### 안드로이드 스튜디오 사용(Use Android Studio)
-    
-   * Android studio를 사용하기 위한 사양(Specification to use Android Studio)
    
    * Android studio 3.0.1 for Windows version
   
