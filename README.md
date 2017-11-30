@@ -63,9 +63,9 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
 
 ## 3. 개발 참여 방법 안내
 
-#### Pull requests를 환영한다. (Welcome for Pull Requests)
+#### Commit과 Pull requests를 환영한다. (Welcome for Commit and Pull requests)
 
-#### commits를 하고 싶다면 메일을 보내주기 바란다. (Please send mails, in case of commits)
+#### Pull request를 할 때에는 메일도 보내주길 바란다. (When send Pull request, please send mail too.)
 
   * E-mail adress : rlaslstjr@gmail.com
   
@@ -73,7 +73,7 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
 
 #### 띄어쓰기를 언더바로 대신한다. (Spaces are replaced by underscores.)
 
-#### Contributor를 원하면 메일을 보내주기 바란다. (Please send mails, if you want to be Contributor)
+#### Collaborator를 원하면 메일을 보내주기 바란다. (Please send mails, if you want to be Collaborator)
 
   * E-mail adress : rlaslstjr@gmail.com
 
