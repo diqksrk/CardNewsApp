@@ -7,6 +7,7 @@
 <br>
 &nbsp;&nbsp;4.  [적용 라이센스](https://github.com/diqksrk/opensource-10#4-적용-라이센스)<br>
 <br>
+===
 ## 1. 앱 소개
 IT 관련 뉴스를 보고 카드 뉴스를 제작하고 배포할수 있는 앱입니다.  (App for watch IT news and make and publish cardnews)
 
@@ -62,7 +63,6 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
    * Android SDK 사용
 
 ## 3. 개발 참여 방법 안내
-=======================
 
 #### Pull requests를 환영한다.
 
