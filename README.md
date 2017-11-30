@@ -93,7 +93,7 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
   * E-mail adress : rlaslstjr@gmail.com
   
 ## 4. 적용 라이센스
--MIT LISENCE-
+-MIT LISENCE-<br>
 Copyright (c) <2017> <purple-10>
 
 
