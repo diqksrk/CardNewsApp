@@ -59,7 +59,7 @@ IT와 관련된 카드뉴스들을 볼 수 있습니다.(can watch the cardnews 
   
    * Android virtual device는 5.1.1 lollipop 사용
    
-   * Android SDK 사용
+   * Android SDK 25 version (least 19 version)
 
 ## 3. 개발 참여 방법 안내
 
